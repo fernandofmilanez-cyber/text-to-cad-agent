@@ -1,0 +1,4 @@
+.env
+engineered_component.step
+preview_mesh.stl
+__pycache__/
